@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -28,7 +27,6 @@ innovation, collaboration, and continuous learning, allowing me to contribute me
 expertise in the tech world.
       </p>
     </section>
-
     <section class="section">
       <h2>🎓 Education</h2>
       <ul>
@@ -36,7 +34,6 @@ expertise in the tech world.
         <li><strong>Diploma in Automobile Engineering</strong> - (2019-2021)</li>
       </ul>
     </section>
-
     <section class="section">
       <h2>💡 Skills</h2>
       <ul class="skills">
@@ -51,7 +48,6 @@ expertise in the tech world.
         <li>Web Development</li>
       </ul>
     </section>
-
     <section class="section">
       <h2>🧠 Projects</h2>
       <ul>
@@ -71,7 +67,6 @@ expertise in the tech world.
         </ol>
       </ul>
     </section>
-
     <section class="section">
       <h2>📫 Contact</h2>
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=desai.rudrarsh11@gmail.com" target="_blank">
